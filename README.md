@@ -49,12 +49,12 @@
 
 3. Запустите тесты:
     ```
-    pytest --alluredir=results
+    python -m pytest --alluredir=test_results/ tests/test_google_maps_api.py
     ```
 
 4. Создайте отчет Allure:
     ```
-    allure serve results
+    allure serve test_results/
     ```
 
 ## Заключение
