@@ -39,7 +39,7 @@
 
 1. Клонируйте репозиторий:
     ```
-    git clone <URL репозитория>
+    git clone https://github.com/GavRDN/project_auto_testing_api.git
     ```
 
 2. Установите необходимые зависимости:
